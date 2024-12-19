@@ -35,7 +35,7 @@ class MainActivity : ComponentActivity() {
 fun Greeting(name: String, modifier: Modifier = Modifier) {
     Surface(color = Color.Yellow) {
     Text(
-        text = "Hello Valentyn!",
+        text = "Hello Andrii!",
         modifier = modifier
     )
     }
